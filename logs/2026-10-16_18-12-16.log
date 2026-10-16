@@ -1,0 +1,8 @@
+2026-10-16 18:12:16,736 - ml_project - INFO - Project started
+2026-10-16 18:12:16,736 - ml_project - ERROR - An error occurred
+Traceback (most recent call last):
+  File "C:\Users\PUNEET\OneDrive\Desktop\MRI_Scan\main.py", line 8, in <module>
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-10-16 18:12:16,742 - ml_project - INFO - Project finished
